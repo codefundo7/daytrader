@@ -5,10 +5,10 @@ spring:
         registration:
           github:
             clientId: c3a634ecc75ee87d4f99
-            clientSecret: 318c845afa7641c8fba2af882614a65484bd0484
+            clientSecret: ab318c845afa7641c8fba2af882614a65484bd0484
           facebook:
             clientId: 3763728337033221
-            clientSecret: 9dbb76655cc55fa51d12467580cc96e7
+            clientSecret: ab9dbb76655cc55fa51d12467580cc96e7
           google:
             clientId: 824850371731-djr9o1lesd0neubok3ikfneak4ehi1rf.apps.googleusercontent.com
-            clientSecret: D5MqsQpJLyB1D9d2Op1MUNao 
+            clientSecret: abD5MqsQpJLyB1D9d2Op1MUNao 
